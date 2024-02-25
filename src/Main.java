@@ -33,7 +33,7 @@ public class Main {
                 }
                 sc.close();
                 mostrarArchivo(personas);
-                // Preguntar al usuario si quiere agregar más personas
+                // Preguntar al usuario si quiere agregar más personass
                 sc = new Scanner(System.in);
                 System.out.println("¿Quieres registrar a otra persona? s/n ");
                 String s = sc.nextLine();
@@ -88,3 +88,7 @@ public class Main {
         }
     }
 }
+
+
+// verificaciones en los ingresos de los datos
+// checar las
